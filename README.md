@@ -14,7 +14,7 @@ Menú (Base de datos, Borrar, CRUD, Ayuda)
 
 Cuadros de texto (Id, Producto, precio, descripción)
 
-Etiquetas (Id, Nombre, Password, Apellido, Dirección)
+Etiquetas (Id, Productos, precio, descripción)
 
 Botones (Crear, Leer, Actualizar, Borrar, Ver datos)
 
