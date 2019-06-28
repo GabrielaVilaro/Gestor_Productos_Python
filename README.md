@@ -12,11 +12,11 @@ Los módulos que componen la interfáz del programa son:
 
 Menú (Base de datos, Borrar, CRUD, Ayuda)
 
-Cuadros de texto (Id, Nombre, Password, Apellido, Dirección)
+Cuadros de texto (Id, Producto, precio, descripción)
 
 Etiquetas (Id, Nombre, Password, Apellido, Dirección)
 
-Botones (Crear, Leer, Actualizar, Borrar)
+Botones (Crear, Leer, Actualizar, Borrar, Ver datos)
 
 		Nombre del archivo principal: Gestor_Productos.py
     
